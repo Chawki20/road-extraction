@@ -1,7 +1,7 @@
 # road-extraction
 # 🛰️ Extraction automatique de réseaux routiers à l’aide des CNNs et GNNs
 
-Ce projet est issu d’un mémoire de fin d’études soutenu à l’École de l’Aviation de Borj El Amri, Tunisie, en 2025.  
+Ce projet est issu d’un mémoire de fin d’études 
 Il vise à développer un pipeline de segmentation sémantique et de reconstruction topologique des réseaux routiers à partir d’images satellites à très haute résolution, en combinant des modèles CNN, GNN et Foundation Models.
 
 ---
